@@ -1,0 +1,95 @@
+body {
+    background-color: #69140E;
+    color: #C4BBAF;
+}
+h1 {
+    text-align: center;
+    font-family: Berkshire Swash;
+    font-size: 68px;
+    color: #FFD35B;
+    border: black solid 5px;
+    border-radius: 10px;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #180D01;
+}
+#navigation {
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 7px;
+    background-color: #180D01;
+}
+#navigation a {
+    padding: 2px;
+    margin: 0px;
+    word-spacing: -12px;
+}
+#navigation p{
+    color: orange;
+}
+noscript p{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.jumbotron {
+    text-align: center;
+    font-family: Berkshire Swash;
+    font-size: 26px;
+    color: brown;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 5px;
+    background-color: orange;
+    border: yellow solid 2px;
+    max-width: 500px;
+    margin: 0 auto;
+}
+.jumbotron p {
+    margin-bottom: 0px;
+}
+#newsCarousel {
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    color: white;
+}
+hr {
+    border: double 6px #885053;
+    margin: 8px;
+    padding: 0px;
+}
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+}
+a {
+    text-decoration: none;
+    font-weight: none;
+    color: #FFD35B;
+}
+a:link {
+    color:  #FFD35B;
+}
+a:hover {
+    font-weight: 700;
+    color: #FFE300;
+}
+a:active {
+    color: #FF00FF;
+}
+form {
+    padding: 20px;
+}
+label {
+    color: white;
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Contact Us</title>
+        <link href="bootstrap-3.3.7-dist/css/bootstrap.css" rel="stylesheet" />
+        <link href="restaurantStyles.css" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash" rel="stylesheet">
+        <style>
+            .required {
+                font-weight: 900;
+            }
+            #form {
+                max-width: 500px;
+                text-align: justify;
+                margin: 0 auto;
+                padding: 20px;
+            }
+            #formBackground {
+                width: 100%;
+                background-color: #3C1518;
+            }
+            textarea {
+                width:;
+            }
+        </style>
+    </head>
+    <body>
+        <noscript>
+            <p>!!Please enable JavaScript for optimal viewing experience!!</p>
+        </noscript>
+        <h1>Tasty Tates Grill</h1>
+        <hr />
+        <ul class="nav nav-pills" id="navigation">
+                <li>
+                    <a href="index.html">
+                        <span class="glyphicon glyphicon-home"><p>Home</p></span>
+                    </a>
+                </li>
+                <li>
+                    <a href="menu.html">
+                        <span class="glyphicon glyphicon-list-alt"><p>Menu</p></span>
+                    </a>
+                </li>
+                <li class="active"><a href="contactUs.html">
+                        <span class="glyphicon glyphicon-envelope"><p>Contact Us</p></span>
+                    </a>
+                </li>
+            </ul>
+        <hr />
+        <div class="container">
+            <div class="jumbotron">
+                <p>Tasty Tates is now opening a second restaurant in Minneapolis!!!</p>
+            </div>
+        </div>
+        <div id="newsCarousel" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+                <div class="item active">
+                    <span>We're opening a new location!</span>
+                </div>
+                <div class="item">
+                    <span>We're rolling out our seasonal menu, with special options for this season.</span>
+                </div>  
+                <div class="item">
+                    <span>The Drink of the Month is SG Special Brew.</span>
+                </div>
+            </div>
+        </div>
+        <div id="formBackground">
+            <form id="form" action="submit.html" method="POST">
+                <label for="name" class="required">Name:</label>
+                <input type="text" id="name" name="name" style="width: 85%; float: right;" required><br /><br />
+                <label for="email" class="required">Email:</label>
+                <input type="text" id="email" name="email" style="width: 85%; float: right;" required><br /><br />
+                <label for="phone" class="required">Phone:</label>
+                <input type="text" id="phone" name="phone"style="width: 85%; float: right;" required><br /><br />
+                <label for="inquiryReason">Reason for Inquiry:</label>
+                <select id="inquiryReason" name="inquiryReason"style="width: 65%; float: right;">
+                    <option value="catering" selected>Catering</option>
+                    <option value="privateParty">Private Party</option>
+                    <option value="Feedback">Feedback</option>
+                    <option value="other">Other</option>
+                </select><br /><br />
+                <label for="additionalInfo">Additional Information:</label>
+                <textarea id="additionalInfo"style="width: 60%; float: right;"></textarea>
+                <legend style="padding-top: 40px; color: white; border: 0;">Have you been to the restaurant?
+                    <div style="float: right;">
+                        <input type="radio" id="no" name="beenTo" value="no" checked="checked" />
+                        <label for="no">No</label>
+                        <input type="radio" id="yes" name="beenTo" value="yes" />
+                        <label for="yes">Yes</label>
+                    </div>
+                </legend>
+                <legend style="color: white; border: 0;">Best days to contact you:
+                    <div style="float: right;">
+                        <input type="checkbox" id="m" name="bestDays" value="m" />
+                        <label for="m">M</label>
+                        <input type="checkbox" id="t" name="bestDays" value="t" />
+                        <label for="t">T</label>
+                        <input type="checkbox" id="w" name="bestDays" value="w" />
+                        <label for="w">W</label>
+                        <input type="checkbox" id="th" name="bestDays" value="th" />
+                        <label for="th">Th</label>
+                        <input type="checkbox" id="f" name="bestDays" value="f" />
+                        <label for="f">F</label>
+                    </div>
+                </legend><br />
+                <div style="text-align: center;">
+                    <input type="submit" name="sendRequest" value="Submit" />
+                </div>
+            </form><br />
+        </div>
+        <hr />
+        <footer>
+            <p>135 Americana Lane, St. Paul, MN 55102<br />651-555-8888</p>
+        </footer>
+        <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    </body>
+</html>
