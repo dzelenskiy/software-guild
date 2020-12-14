@@ -1,0 +1,23 @@
+May 24, 2018 1:57:08 PM : addDVD: Moviename1DVD: Moviename12018-05-24T13:57:08.073
+May 24, 2018 1:57:50 PM : editDVD: Moviename1DVD: Moviename12018-05-24T13:57:50.598
+May 24, 2018 1:58:32 PM : editDVD: Moviename1DVD: Moviename12018-05-24T13:58:32.914
+May 24, 2018 1:58:39 PM : editDVD: Moviename1DVD: Moviename12018-05-24T13:58:39.565
+May 24, 2018 1:58:39 PM : editDVD: Moviename1DVD: Moviename12018-05-24T13:58:39.571
+May 24, 2018 1:58:52 PM : removeDVD: Moviename1
+May 24, 2018 2:11:33 PM : addDVD: Guardians of the Galaxy RELEASE_DATE: 2017-05-05 DIRECTOR: Michael Bay STUDIO: Marvel Studios MPAA_ RATING: PG-13 COMMENT: Awesome movie. Funny and lot's of action.
+May 24, 2018 2:16:09 PM : removeDVD: Guardians of the Galaxy
+Jun 19, 2018 11:58:41 AM : addDVD: A Test Movie |RELEASE_DATE: 2018-05-05 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 11:59:00 AM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-05 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 11:59:44 AM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 11:59:48 AM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 11:59:48 AM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 12:07:46 PM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 12:08:07 PM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 12:08:14 PM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 12:08:14 PM : editDVD: A Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 12:57:31 PM : addDVD: Test Movie |RELEASE_DATE: 2018-05-05 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 12:58:01 PM : editDVD: Test Movie |RELEASE_DATE: 2018-05-05 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 1:02:22 PM : editDVD: Test Movie |RELEASE_DATE: 2018-05-05 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 1:02:45 PM : editDVD: Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 1:02:51 PM : editDVD: Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!
+Jun 19, 2018 1:02:51 PM : editDVD: Test Movie |RELEASE_DATE: 2018-05-07 |DIRECTOR: Homer Simpson |STUDIO: 20th Century Fox |MPAA_ RATING: PG |COMMENT: Movies directed by Homer Simpson are always funny!

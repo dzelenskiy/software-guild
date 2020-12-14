@@ -1,0 +1,19 @@
+May 26, 2018 4:16:09 PM: Tried: vendItem-MENU_OPTION:1 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:10 PM: Tried: vendItem-MENU_OPTION:2 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:11 PM: Tried: vendItem-MENU_OPTION:3 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:11 PM: Tried: vendItem-MENU_OPTION:4 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:12 PM: Tried: vendItem-MENU_OPTION:5 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:12 PM: Tried: vendItem-MENU_OPTION:6 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:13 PM: Tried: vendItem-MENU_OPTION:7 with $.10 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 26, 2018 4:16:46 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:47 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:48 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:48 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:48 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:49 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:49 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:16:50 PM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 26, 2018 4:17:10 PM: Tried: vendItem-MENU_OPTION:2 with $7.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
+May 29, 2018 9:27:39 AM: Tried: vendItem-MENU_OPTION:1 with $.15 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 29, 2018 9:28:04 AM: Tried: vendItem-MENU_OPTION:2 with $.15 recieved ERROR_MESSAGE:InsufficientFundsException: Price of this item exceeds the cash you put in
+May 29, 2018 9:28:43 AM: Tried: vendItem-MENU_OPTION:2 with $5.00 recieved ERROR_MESSAGE:NoItemInventoryException: Selection is currently out of stock
